@@ -1,4 +1,4 @@
-name: S3 Deploy Website
+name: Move away i'm deploying
 
 on:
   push:
